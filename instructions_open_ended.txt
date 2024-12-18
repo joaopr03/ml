@@ -1,0 +1,15 @@
+To open our interface for the Open Ended Section you have to:
+
+1. Open your terminal
+2. Be on the directory of the project where you can find all the files
+3. Run this command streamlit run open_ended.py
+
+After running this command, your browser will open with the interface
+
+There are 3 pages in our interface:
+
+    Home Page - Shows the members of the group and has a button to our GitHub repository
+    Predictor Claim Injury Type - You can manually introduce values to predict which
+         Claim Injury Type is the most likely to happen given the data
+    Regions Map - Map with regions (don't represent the real regions) where you can 
+        click them and check information about them
